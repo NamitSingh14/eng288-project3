@@ -20,24 +20,18 @@ Contents
    :caption: General
    :name: sec-general
    
-   general/index
+   general
 
 .. toctree::
    :caption: Getting Started
    :name: sec-started
 
-   getting_started/prerequisites/index
-   getting_started/basics/index
-   getting_started/first_project/index
+   getting_started
 
 .. toctree::
    :caption: API Reference
    :name: sec-reference
 
-   API/game_object/index
-   API/raycast/index
-   API/character_movement/index
-   API/collider/index
-   API/audio_stream/index
+   api
 
 Lumache has its documentation hosted on Read the Docs.
