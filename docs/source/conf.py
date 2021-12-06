@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Pixel Engine'
+copyright = '2021, Namit Singh'
+author = 'Namit Singh'
 
 release = '0.1'
 version = '0.1.0'
@@ -26,6 +26,12 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
+
+html_static_path = ['_static']
+
+html_css_files = [
+    'css/custom.css',
+]
 
 # -- Options for HTML output
 
